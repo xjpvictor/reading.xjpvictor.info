@@ -11,7 +11,7 @@ kramdown:
         # Use existing pygments syntax highlighting css
         css_class: 'highlight'
 title: I am reading
-description: 用读书观察世界，理解自己
+description: 用读书理解世界，理解自己
 show_downloads: false
 github:
     is_project_page: false
